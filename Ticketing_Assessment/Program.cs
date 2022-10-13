@@ -19,7 +19,7 @@ var events = new List<Event>
 };
 
 
-var customer = new Customer {Name = "Mr. Fake", City = "New York"};
+var customer = new Customer {Name = "Mr. Fake", City = "New York", DateOfBirth = new DateTime(2022,10, 15)};
 
 
 //***** Question 1 ******
@@ -157,6 +157,6 @@ foreach (var @event in closestBirthdayWithEvents)
 
 IEnumerable<Event> GetClosestBirthdayWithEvents(Customer customer)
 {
-    var closeBirthdays = events.Where(e => e.EventDate >= Convert.ToDateTime("10/14/2022")).OrderBy(e => e.EventDate);
+    var closeBirthdays = events.Where(e => e.EventDate >= customer.DateOfBirth).OrderBy(e => e.EventDate);
     return closeBirthdays;
 }
