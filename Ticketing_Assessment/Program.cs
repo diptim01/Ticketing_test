@@ -110,7 +110,7 @@ IEnumerable<EvaluatedEvent> GetCachedClosestEventDistance(Customer customer)
 Console.WriteLine("***** Question 5 ******");
 var pricedEvents = GetEventBasedOnPrice(customer);
 
-foreach (var @event in pricedEvents)
+foreach (var @event in pricedEvents.SortEvent("Price", false))
 {
     GivenMethods.AddToEmail(customer, @event.Event, Convert.ToInt32(@event.Price));
 }
@@ -140,13 +140,12 @@ IEnumerable<EvaluatedEvent> GetEventBasedOnPrice(Customer customer)
             Console.WriteLine(e);
         }
     }
-
-    return evaluatedEvents.SortEvent("Price", false);
+    return evaluatedEvents;
 }
 
 
-//***** Question 5 ******
-Console.WriteLine("***** Question 5 ******");
+//***** Question 6 ******
+Console.WriteLine("***** Question 6 ******");
 
 var closestBirthdayWithEvents = GetClosestBirthdayWithEvents(customer);
 
