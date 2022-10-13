@@ -1,0 +1,15 @@
+/Users/Oladipo.Alokan/RiderProjects/Ticketing_Assessment/Ticketing_Assessment/bin/Debug/net6.0/Ticketing_Assessment
+/Users/Oladipo.Alokan/RiderProjects/Ticketing_Assessment/Ticketing_Assessment/bin/Debug/net6.0/Ticketing_Assessment.deps.json
+/Users/Oladipo.Alokan/RiderProjects/Ticketing_Assessment/Ticketing_Assessment/bin/Debug/net6.0/Ticketing_Assessment.runtimeconfig.json
+/Users/Oladipo.Alokan/RiderProjects/Ticketing_Assessment/Ticketing_Assessment/bin/Debug/net6.0/Ticketing_Assessment.dll
+/Users/Oladipo.Alokan/RiderProjects/Ticketing_Assessment/Ticketing_Assessment/bin/Debug/net6.0/Ticketing_Assessment.pdb
+/Users/Oladipo.Alokan/RiderProjects/Ticketing_Assessment/Ticketing_Assessment/obj/Debug/net6.0/Ticketing_Assessment.csproj.AssemblyReference.cache
+/Users/Oladipo.Alokan/RiderProjects/Ticketing_Assessment/Ticketing_Assessment/obj/Debug/net6.0/Ticketing_Assessment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Oladipo.Alokan/RiderProjects/Ticketing_Assessment/Ticketing_Assessment/obj/Debug/net6.0/Ticketing_Assessment.AssemblyInfoInputs.cache
+/Users/Oladipo.Alokan/RiderProjects/Ticketing_Assessment/Ticketing_Assessment/obj/Debug/net6.0/Ticketing_Assessment.AssemblyInfo.cs
+/Users/Oladipo.Alokan/RiderProjects/Ticketing_Assessment/Ticketing_Assessment/obj/Debug/net6.0/Ticketing_Assessment.csproj.CoreCompileInputs.cache
+/Users/Oladipo.Alokan/RiderProjects/Ticketing_Assessment/Ticketing_Assessment/obj/Debug/net6.0/Ticketing_Assessment.dll
+/Users/Oladipo.Alokan/RiderProjects/Ticketing_Assessment/Ticketing_Assessment/obj/Debug/net6.0/refint/Ticketing_Assessment.dll
+/Users/Oladipo.Alokan/RiderProjects/Ticketing_Assessment/Ticketing_Assessment/obj/Debug/net6.0/Ticketing_Assessment.pdb
+/Users/Oladipo.Alokan/RiderProjects/Ticketing_Assessment/Ticketing_Assessment/obj/Debug/net6.0/Ticketing_Assessment.genruntimeconfig.cache
+/Users/Oladipo.Alokan/RiderProjects/Ticketing_Assessment/Ticketing_Assessment/obj/Debug/net6.0/ref/Ticketing_Assessment.dll
